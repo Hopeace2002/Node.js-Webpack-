@@ -1,0 +1,20 @@
+{
+  "name": "hopeace",
+  "version": "1.0.0",
+  "description": "create by yuan",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "yuan",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.31.0"
+  },
+  "dependencies": {
+    "koa": "^2.13.1"
+  }
+}
